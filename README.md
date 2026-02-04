@@ -1,6 +1,5 @@
 
 
-````markdown
 # IT Helpdesk Chatbot (LLM + Ollama + Streamlit)
 
 A lightweight **LLM-based IT help desk chatbot** that provides safe, checklist-style troubleshooting guidance for common IT issues (email, Wi-Fi, printers, VPN, account access, security incidents).  
@@ -164,7 +163,7 @@ This chatbot is designed to:
 > ⚠️ This is not a replacement for official IT/security teams—use escalation paths where appropriate.
 
 ---
-
+<!--
 ## Improvements / Roadmap
 
 * Add **RAG** (Retrieval-Augmented Generation) using official IT knowledge base articles
@@ -173,12 +172,10 @@ This chatbot is designed to:
 * Integrate ticket creation (ServiceNow/Jira/email) for enterprise workflows
 
 ---
-
+-->
 
 ## Author
 
 Md Abdullahil Oaphy
 
-
-````
-
+---
