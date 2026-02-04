@@ -15,7 +15,7 @@ Built with **local LLM inference** using :contentReference[oaicite:0]{index=0} a
 ![IT Helpdesk Chatbot UI - Home](assets\1.png)
 
 **Example Response (Security Incident: suspicious link)**
-![IT Helpdesk Chatbot UI - Response](assets/3.png)
+![IT Helpdesk Chatbot UI - Response](assets\3.png)
 
 ---
 
