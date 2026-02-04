@@ -12,10 +12,10 @@ Built with **local LLM inference** using :contentReference[oaicite:0]{index=0} a
 ## Demo Screenshots
 
 **Home / Export View**
-![IT Helpdesk Chatbot UI - Home](assets/ui-home.png)
+![IT Helpdesk Chatbot UI - Home](assets\1.png)
 
 **Example Response (Security Incident: suspicious link)**
-![IT Helpdesk Chatbot UI - Response](assets/ui-response.png)
+![IT Helpdesk Chatbot UI - Response](assets/3.png)
 
 ---
 
